@@ -11,6 +11,13 @@ git add a branch dev
 
 dev
 brancht feature1 operated..
-branch dev test --no-ff it may create a new commit..
+branch dev test --no-ff it may create a new commit.
+
+dev operate...
 
 issue101 complete!
+
+concreate conflict!
+
+
+
